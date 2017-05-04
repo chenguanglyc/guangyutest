@@ -30,7 +30,7 @@ public class maxLength {
     }  
     public static void main(String[] args) {  
         // TODO Auto-generated method stub  
-        String str="abcdafg";  
+        String str="aaaaaaaaaaaabbbbbbbbbbbbbbbccccccccdef";  
         System.out.println(lengthOfLongestSubstring(str));  
     }  
   
